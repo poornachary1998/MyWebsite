@@ -120,6 +120,8 @@ hr {
     text-align: center;
     padding-top: 1rem;
     color: var(--dark-gray);
+    font-weight: lighter;
+    font-size: 3rem;
 }
 
 .hero .hero-heading .heading-inverted {
